@@ -131,19 +131,9 @@ python pc_health_agent.py --interval 30
 ---
 
 ## 📚 Technical Documentation Directory
-* [Architecture Design](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/architecture.md)
-* [REST API Specification](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/api.md)
-* [Database ERD & Schemas](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/database.md)
-* [Use Cases & Scenarios](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/use-cases.md)
-* [Troubleshooting SOP Workflows](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/troubleshooting-workflows.md)
-* [Deployment Guide](file:///d:/Process_IT_2022-2027/IT_Helpdesk/docs/deployment.md)
-
----
-
-## 💼 Resume & CV Project Summary
-**IT Service Desk & Asset Management System** | React, TypeScript, Node.js, Express, PostgreSQL, Python, Docker
-* Engineered an enterprise-style IT Service Desk platform managing end-to-end technical incident triage, SLA workflows, and audit trails.
-* Built an IT Asset Management module tracking hardware lifecycle, device configurations, maintenance history, and linked support tickets.
-* Implemented strict Role-Based Access Control (RBAC) across Employees, IT Technicians, and Administrators using JWT authentication.
-* Developed a cross-platform Python endpoint monitoring agent utilizing `psutil` to ingest real-time CPU, RAM, disk, and network telemetry.
-* Architected proactive alert rule engines and Socket.IO WebSocket channels for instant incident triage and hardware fault detection.
+* [Architecture Design](docs/architecture.md)
+* [REST API Specification](docs/api.md)
+* [Database ERD & Schemas](docs/database.md)
+* [Use Cases & Scenarios](docs/use-cases.md)
+* [Troubleshooting SOP Workflows](docs/troubleshooting-workflows.md)
+* [Deployment Guide](docs/deployment.md)
